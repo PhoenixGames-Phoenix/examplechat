@@ -1,0 +1,15 @@
+{
+  "name": "examplechat-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "chat server for examplechat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phoenix_13",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^7.4.4"
+  }
+}
